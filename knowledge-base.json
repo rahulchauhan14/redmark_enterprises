@@ -1,0 +1,70 @@
+{
+  "company_name": "RedMarks Enterprises",
+  "business_type": "Industrial Refrigeration & Commercial HVAC Services Provider",
+  "area_served": "Delhi NCR (Delhi, Gurgaon, Noida, Greater Noida, Faridabad, Ghaziabad)",
+  "tagline": "Industrial Refrigeration & HVAC Services • Delhi NCR",
+  "description": "RedMarks Enterprises specializes in industrial refrigeration, cold rooms, VRF systems, industrial AC, chillers, freezer plants, and AMC services across Delhi NCR. Offers design, turnkey installation, emergency repairs, and preventative AMC maintenance.",
+  "location": {
+    "address": "202 1st Floor, Shri Apartment, Kh No-480/1 Near New Rana Public School, Mundka, Delhi-110041",
+    "latitude": 28.68427815253237,
+    "longitude": 77.03165296272628,
+    "map_url": "https://www.google.com/maps?q=28.68427815253237,77.03165296272628"
+  },
+  "contact": {
+    "primary_phone": "+919958009729",
+    "whatsapp": "+919958009729",
+    "whatsapp_url": "https://wa.me/919958009729",
+    "secondary_phone": "+919425835884",
+    "email": "redmarksdelhi@gmail.com"
+  },
+  "services": [
+    {
+      "code": "RM-IR-01",
+      "name": "Industrial Refrigeration",
+      "description": "Heavy-duty industrial cooling plant installation, compressor overhauling, gas charging, and thermal efficiency optimization.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-CR-02",
+      "name": "Cold Room Systems",
+      "description": "Custom modular walk-in cold room installation and repair with controlled humidity & micro-processor temperature monitoring.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-VRF-03",
+      "name": "VRF Systems",
+      "description": "Advanced Variable Refrigerant Flow (VRF/VRV) HVAC setup, multi-zone indoor unit balancing, and inverter compressor servicing.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-IAC-04",
+      "name": "Industrial AC",
+      "description": "High-capacity ductable splits, package ACs, and centralized air handling units (AHU) maintenance for plants & offices.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-CH-05",
+      "name": "Chillers",
+      "description": "Air-cooled & water-cooled liquid chiller troubleshooting, condenser descaling, refrigerant recovery, and pumping system repair.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-FP-06",
+      "name": "Freezer Plants",
+      "description": "Ultra-low temperature blast freezers, IQF units, and commercial deep freezer plant servicing for food processing.",
+      "pricing": "Get Custom Quote (Site inspection required)"
+    },
+    {
+      "code": "RM-AMC-07",
+      "name": "AMC & Preventive Maintenance",
+      "description": "Structured Annual Maintenance Contracts tailored to protect critical cooling machinery and minimize operational downtime.",
+      "pricing": "Custom Annual Plan (Quoted based on facility size)"
+    },
+    {
+      "code": "RM-REP-08",
+      "name": "Repair & Breakdown Services",
+      "description": "Rapid emergency diagnostic visits, electrical fault repairs, fan motor replacements, and immediate gas leak repairs.",
+      "pricing": "Inspection & Diagnosis fee applies"
+    }
+  ]
+}

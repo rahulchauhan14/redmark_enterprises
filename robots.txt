@@ -1,0 +1,7 @@
+# RedMarks Enterprises - robots.txt
+# UPDATE_REQUIRED: Replace www.redmarksenterprises.com with your live domain name upon deployment
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.redmarksenterprises.com/sitemap.xml
